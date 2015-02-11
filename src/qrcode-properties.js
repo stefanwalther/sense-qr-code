@@ -7,7 +7,7 @@ define([], function () {
 	// ****************************************************************************************
     var text = {
         ref: "props.text",
-        label: "QR Code Value",
+        label: "QR code value",
         type: "string",
         expression: "optional",
 		defaultValue: "Qlik Sense",
@@ -20,7 +20,7 @@ define([], function () {
 
 	var align = {
 		ref: "props.align",
-		label: "Alignment",
+		label: "Horizontal alignment",
 		type: "string",
 		component: "buttongroup",
 		defaultValue: "left",
@@ -43,28 +43,23 @@ define([], function () {
 	var colorLight = {
 		ref: "props.colorLight",
 		type: "string",
-		label: "Color Light (Hex Color Code)",
+		label: "Color light (Hex color code)",
 		defaultValue: "#ffffff"
 	};
 
 	var colorDark = {
 		ref: "props.colorDark",
 		type: "string",
-		label: "Color Dark (Hex Color Code)",
+		label: "Color dark (Hex color code)",
 		defaultValue: "#333333"
 	};
-
-
-
-
-
 
 
 	// ****************************************************************************************
 	// Property Panel Definition
 	// ****************************************************************************************
 
-    var propPanelDefinition = {
+    var appearancePropPanel = {
         uses: "settings",
         items: {
             value: {
@@ -92,7 +87,7 @@ define([], function () {
         type: "items",
         component: "accordion",
         items: {
-            settings: propPanelDefinition
+            appearance: appearancePropPanel
 
         }
     };

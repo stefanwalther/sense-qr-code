@@ -36,7 +36,6 @@ function ($, _, qvangular, props, initProps, extensionUtils, cssContent) {
 				function makeCode( ) {
 
 					var objectId = 'qrcode_' + $scope.layout.qInfo.qId;
-					//console.log('$( objectId ).length', $( objectId ).length );
 					if ($( objectId ).length > 0) {
 						$element.empty();
 					}
@@ -58,9 +57,9 @@ function ($, _, qvangular, props, initProps, extensionUtils, cssContent) {
 						w = $element.prop("offsetWidth") !== 0 ? $element.prop("offsetWidth") : $($element.offsetParent()).prop("offsetWidth" ),
 						height = h > w ? w : h;
 
-					if ( $scope.layout.props.autoLayout ) {
-						console.log( 'scope', $scope );
-					}
+					//if ( $scope.layout.props.autoLayout ) {
+					//	console.log( 'scope', $scope );
+					//}
 
 					var options = {
 						text: $scope.layout.props.text,

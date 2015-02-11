@@ -1,10 +1,11 @@
 .idea/
-Resources/
-Tests/
+[Rr]esources/
+[Tt]ests/
 web.*.config
-dist/
-node_modules/
-grunt/node_modules/
+/dist/
+/node_modules/
+/grunt/node_modules/
+/bower_components/
 
 
 #https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
@@ -19,7 +20,6 @@ grunt/node_modules/
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
 [Bb]in/
 [Oo]bj/
 

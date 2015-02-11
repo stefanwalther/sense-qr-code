@@ -1,5 +1,5 @@
-# QR Code
-Extension to generate a QR code within Qlik Sense.
+# QR Code for Qlik Sense
+Extension to generate a QR code to be used Qlik Sense.
 
 ## Purpose and Description
 
