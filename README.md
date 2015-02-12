@@ -11,7 +11,7 @@ Simple Example:
 
 ## Installation
 
-1. Download the latest version
+1. Download the [latest version](https://github.com/stefanwalther/qsQRCode/raw/master/build/QRCode_latest.zip)
 2. Qlik Sense Desktop
 	* To install, copy all files in the .zip file to folder "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\qsQRCode"
 3. Qlik Sense Server
