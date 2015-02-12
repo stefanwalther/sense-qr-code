@@ -1,6 +1,6 @@
 {
-  "name": "qsQRCode",
-  "version": "1.0.0",
+  "name": "qsqrcode",
+  "version": "1.0.1",
   "description": "QR Code to be embedded into Qlik Sense.",
   "main": "src/swr-qrcode.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "qliksense-visualization-extension"
   ],
   "author": "Stefan Walther",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanwalther/qsQRCode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/qsQRCode/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/qsQRCode"
 }

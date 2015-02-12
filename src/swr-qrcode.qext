@@ -4,6 +4,6 @@
 	"icon" : "extension",
 	"type" : "visualization",
 	"version": "0.1",
-	"preview" : "bar",
+	"preview" : "qsQrCode.png",
 	"author": "Stefan Walther"
 }
