@@ -3,9 +3,9 @@
 [Tt]ests/
 web.*.config
 /dist/
-/node_modules/
-/grunt/node_modules/
-/bower_components/
+/**/node_modules/
+/**/bower_components/
+/build/*_dev.zip
 
 
 #https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
