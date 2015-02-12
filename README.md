@@ -1,5 +1,5 @@
 # QR Code for Qlik Sense
-Extension to generate a QR code to be used in Qlik Sense.
+Visualization Extension to generate a QR code to be used in Qlik Sense.
 
 ## Purpose and Description
 I have created this Visualization Extension for Qlik Sense for a customer who is presenting some dashboards in kiosk mode and wanted to include a QR Code to point to some offerings on their website.
