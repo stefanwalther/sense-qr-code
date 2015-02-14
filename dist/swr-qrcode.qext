@@ -1,0 +1,9 @@
+{
+	"name" : "QR Code",
+	"description" : "Display a QR Code.",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.1",
+	"preview" : "qsQrCode.png",
+	"author": "Stefan Walther"
+}

@@ -1,0 +1,8 @@
+.qv-object-swr-qrcode .swr_Qr_Code {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.qv-object-swr-qrcode .swr_Qr_Code > div > img {
+  display: initial !important;
+}
