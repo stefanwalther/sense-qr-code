@@ -1,6 +1,6 @@
 {
   "name": "qsqrcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "QR Code to be embedded into Qlik Sense.",
   "main": "src/swr-qrcode.js",
   "scripts": {
