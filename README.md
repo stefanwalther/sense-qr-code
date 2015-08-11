@@ -7,13 +7,13 @@ I have created this Visualization Extension for Qlik Sense for a customer who is
 ## Screenshots
 
 Simple Example:
-![](https://raw.githubusercontent.com/stefanwalther/qsQRCode/gh-pages/images/qsQRCode_Dashboard.png)
+![](https://raw.githubusercontent.com/stefanwalther/sense-qr-code/gh-pages/images/qsQRCode_Dashboard.png)
 
 ## Installation
 
-1. Download the [latest version](https://github.com/stefanwalther/qsQRCode/raw/master/build/QRCode_latest.zip)
+1. Download the [latest version](https://github.com/stefanwalther/sense-qr-code/raw/master/build/QRCode_latest.zip)
 2. Qlik Sense Desktop
-	* To install, copy all files in the .zip file to folder "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\qsQRCode"
+	* To install, copy all files in the .zip file to folder "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\sense-qr-code"
 3. Qlik Sense Server
 	* See instructions [how to import an extension on Qlik Sense Server](http://help.qlik.com/sense/en-US/online/#../Subsystems/Qlik_Management_Console_help/Content/QMC_Resources_Extensions_AddingExtensions.htm?Highlight=extension)
 
@@ -21,7 +21,7 @@ Simple Example:
 
 Should be pretty self explanatory, hopefully:
 
-![](https://raw.githubusercontent.com/stefanwalther/qsQRCode/gh-pages/images/qsQRCode_PropertyPanel.png)
+![](https://raw.githubusercontent.com/stefanwalther/sense-qr-code/gh-pages/images/qsQRCode_PropertyPanel.png)
 
 ## Contributing
 Contributing to this project is welcome. The process to do so is outlined below:
@@ -41,10 +41,10 @@ I cannot guarantee that I will merge all PRs but I will evaluate them all.
 
 ## Change Log
 
-See [CHANGELOG.md](https://github.com/stefanwalther/qsQRCode/blob/master/CHANGELOG.md)
+See [CHANGELOG.md](https://github.com/stefanwalther/sense-qr-code/blob/master/CHANGELOG.md)
 
 ## License & Copyright
 
 The software is made available "AS IS" without any warranty of any kind under the MIT License (MIT).
 
-See [Additional license information for this solution.](https://github.com/stefanwalther/qsQRCode/blob/master/LICENSE.md)
+See [Additional license information for this solution.](https://github.com/stefanwalther/sense-qr-code/blob/master/LICENSE.md)
