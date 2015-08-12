@@ -1,0 +1,9 @@
+lib/css/style.css;
+lib/external/qrcodejs/qrcode.js;
+lib/external/qrcodejs/qrcode.min.js;
+lib/js/extensionUtils.js;
+qrcode-initialproperties.js;
+qrcode-properties.js;
+qsQrCode.png;
+swr-qrcode.js;
+swr-qrcode.qext
