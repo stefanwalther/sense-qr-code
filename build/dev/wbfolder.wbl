@@ -1,3 +1,4 @@
+lib/css/main.css;
 lib/css/style.css;
 lib/external/qrcodejs/qrcode.js;
 lib/external/qrcodejs/qrcode.min.js;

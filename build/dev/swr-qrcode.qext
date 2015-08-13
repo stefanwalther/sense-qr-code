@@ -3,7 +3,7 @@
 	"description" : "Display a QR Code.",
 	"icon" : "extension",
 	"type" : "visualization",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"preview" : "qsQrCode.png",
 	"author": "Stefan Walther"
 }

@@ -15,7 +15,7 @@ define([
         './qrcode-properties',
         './qrcode-initialproperties',
         './lib/js/extensionUtils',
-        'text!./lib/css/style.css',
+        'text!./lib/css/main.css',
 
 		// no return value
 		'./lib/external/qrcodejs/qrcode.min'
