@@ -21,6 +21,6 @@
   "homepage": "https://github.com/stefanwalther/qsQRCode",
   "devDependencies": {
     "gulp": "git://github.com/gulpjs/gulp#4.0",
-    "sense-go": "^0.5.1"
+    "sense-go": "^0.12.2"
   }
 }
