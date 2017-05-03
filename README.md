@@ -1,4 +1,6 @@
 # QR Code for Qlik Sense
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/sense-qr-code.svg)](https://greenkeeper.io/)
 Visualization Extension to generate a QR code to be used in Qlik Sense.
 
 
